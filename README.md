@@ -9,5 +9,5 @@ Link for the active website: [website link]
 
 
 
-[website link]: 
+[website link]: https://jayanti-neu.github.io/tier1Solo/
 
