@@ -26,6 +26,30 @@ button a {
     text-decoration: none;
 }
 
+.scrollToTop {
+    display: none;
+    cursor: pointer;
+    position: fixed;
+    text-align: center;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    bottom: 20px;
+    right: 20px;
+    background-color: #3e4141;
+}
+
+.material-symbols-outlined {
+    padding-top: 8px;
+    font-size: 60px;
+    color:white;
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}
+
 .content {
     padding: 20px;
     background-color: rgb(231, 230, 230);
@@ -52,7 +76,6 @@ button a {
 }
 
 .nav button a {
-    /* font-style: ; */
     color: white;
 }
 
